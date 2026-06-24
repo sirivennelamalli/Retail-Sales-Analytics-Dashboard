@@ -1,4 +1,5 @@
 # Retail Sales Analytics Dashboard
+A Power BI dashboard project analyzing retail sales performance, customer behavior, payment methods, and profitability trends.
 
 ## Project Overview
 This project analyzes retail sales performance using Power BI.
