@@ -28,5 +28,4 @@ This project analyzes retail sales performance using Power BI.
 - Details.csv
 
 ## Dashboard Preview
-
-(Add screenshot here later)
+![Dashboard Preview](Dashboard.png)
