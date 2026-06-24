@@ -2,7 +2,7 @@
 A Power BI dashboard project analyzing retail sales performance, customer behavior, payment methods, and profitability trends.
 
 ## Project Overview
-This project analyzes retail sales performance using Power BI.
+This Power BI dashboard provides insights into retail sales performance, customer purchasing behavior, product profitability, and payment trends. The dashboard helps identify high-performing states, product categories, and customers through interactive visualizations.
 
 ## Key Metrics
 - Total Sales
